@@ -1,3 +1,6 @@
+# 問題 : https://atcoder.jp/contests/abc271/tasks/abc271_a
+# 参考になる資料 : https://qiita.com/it_ks/items/55d43baa996860edaabb
+
 N = int(input())
 
 change_to_hex = {10 : "A", 11 : "B", 12 : "C", 13 : "D", 14 : "E", 15 : "F"}
